@@ -1,15 +1,14 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I Love You </title>
+    <title>I Love You</title>
     <style>
         body, html {
             height: 100%;
             margin: 0;
             padding: 0;
-            background-color: #ffccd5; /* Lighter, pastel red */
+            background-color: #F4C2C2; /* Baby pink */
             overflow: hidden;
         }
         .center-message {
@@ -54,7 +53,7 @@
 </head>
 <body>
 
-<div class="center-message">I Love You </div>
+<div class="center-message">I Love You</div>
 
 <script>
     function randomBetween(min, max) {
